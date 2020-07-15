@@ -1,8 +1,0 @@
-*/*.py[cod]
-.DS_Store
-
-last/
-dist/
-.idea/
-build/
-Nada.egg-info/
